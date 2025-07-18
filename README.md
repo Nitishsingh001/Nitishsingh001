@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishsingh001&show_icons=true&locale=en" alt="nitishsingh001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitishsingh001&" alt="nitishsingh001" /></p>
+<p><img align="center" src="https://www.python.org/static/img/psf-logo.png" alt="nitishsingh001"/></p>
